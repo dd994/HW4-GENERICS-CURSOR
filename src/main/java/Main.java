@@ -10,6 +10,7 @@ public class Main {
         banknoteCounter(number);
 
         //upd
+
         banknoteRuntimeCounter();
     }
 }
