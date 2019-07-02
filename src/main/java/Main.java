@@ -6,11 +6,9 @@ import static main.java.counters.BanknoteRuntimeCounter.banknoteRuntimeCounter;
 
 public class Main {
     public static void main(String[] args) {
-        int number = 88888888;
+        int number = 1;
         banknoteCounter(number);
-
         //upd
-
         banknoteRuntimeCounter();
     }
 }

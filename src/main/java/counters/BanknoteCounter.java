@@ -18,6 +18,7 @@ public class BanknoteCounter {
         banknotes.add(5);
         banknotes.add(2);
         banknotes.add(1);
+        banknotes.add(0);
 
         Iterator<Integer> iterator = banknotes.iterator(); //define an iterator
         Integer number = iterator.next(); //assign the value of the nominal value to the current item in the list
